@@ -1,6 +1,6 @@
 ## ⚡ Oi, eu sou a Larissa!  ⚡
 
-🎓 Doutoranda em Química | 💻 Estudante de Ciência da Computação | 🔬 Foco em  Data Science e Machine Learning 
+🎓 PhD em Química | 💻 Estudante de Ciência da Computação | 🔬 Foco em  Data Science e Machine Learning 
 
 ---
 
